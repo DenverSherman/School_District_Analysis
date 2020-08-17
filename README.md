@@ -30,6 +30,7 @@ Falling within the 1000-1999 bin, the academic dishonesty treatment improved the
 
 ### Spending Summary
 ![Spending Summary](https://github.com/DenverSherman/School_District_Analysis/blob/master/Resources/spending_summary.png)
+
 Perhaps the most enlightening change, the academically honest analysis sheds a concerning light on the $630-644 per student budget schools. With Thomas High School scores treated, the $630-644 are shown to have the lowest passing percentages in reading and overall.
 
 ### Grade Summary
@@ -44,4 +45,4 @@ To consolidate insights, here is a list of the changes influenced by academic di
  * Thomas High School is now higher rated
  * Overall pass rates are lower, reading by 0.1%; math and overall down by 1%
  * The rift in pass rafts between Charter and district schools grows in favor of the Charter schools.
- * Schools with $630-644 budgets are revealed to be underperforming.
+ * Schools with $630-644 budgets are revealed to be underperforming by overall pass rates.
