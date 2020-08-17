@@ -9,13 +9,12 @@ By request, 9th grade test scores from Thomas High School have been removed for 
 ![District Summary](https://github.com/DenverSherman/School_District_Analysis/blob/master/Resources/district_summary.png)
 
 Surpressing 9th grade scores for Thomas High School has shifted:
-
 ** All % Passing (Math, Reading, and Overall) are down 1%
-
 ** Average Math Score down -0.1 point.
 
 ### School Summary
 ![School Summary](https://github.com/DenverSherman/School_District_Analysis/blob/master/Resources/school_summary.png)
+
 Prior to the academic dishonesty treatment, Thomas High School was ranked 3rd by overall passing rate. Without the 9th grade scores (and the N/A scores removed from total student count), Thomas High School is ranked 2nd. Thomas's 9th grade class, dishonesty considered, was it's lowest performing class and pulled the averages down for the school.
 
 #### Top 5
