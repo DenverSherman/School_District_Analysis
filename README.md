@@ -44,5 +44,5 @@ Printed below are the summaries by grade level.
 To consolidate insights, here is a list of the changes influenced by academic dishonesty:
  * Thomas High School is now higher rated
  * Overall pass rates are lower, reading by 0.1%; math and overall down by 1%
- * The rift in pass rafts between Charter and district schools grows in favor of the Charter schools.
+ * The rift in pass rates between Charter and district schools grows in favor of the Charter schools.
  * Schools with $630-644 budgets are revealed to be underperforming by overall pass rates.
